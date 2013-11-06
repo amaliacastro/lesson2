@@ -115,6 +115,8 @@ out2  # signals error bc only takes numeric but DOESNOT STOP
 #############################
 # Git is installed but SVN no (no need to do it)
 # Create one repository for each R project.
-
+#Note: to see the past history of a file: in the upper right window of
+# Rstudio, click Git tab, More, History. That is only visualization. How to
+# restore those  files? look it up in Google.
 
 plot(1)
