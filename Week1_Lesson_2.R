@@ -115,3 +115,6 @@ out2  # signals error bc only takes numeric but DOESNOT STOP
 #############################
 # Git is installed but SVN no (no need to do it)
 # Create one repository for each R project.
+
+
+plot(1)
